@@ -36,6 +36,6 @@ _Podemos incluir checkboxs para complementar más:_
 - [ ] Elemento no finalizado  
 - [x] Elemento finalizado  
   
-
+_Markdown nos ofrece muchas otras cosas, pero no queria hacer un readme larguisimo y solo he puesto las prinicpales cosas que me han llamado la atención._
 
 

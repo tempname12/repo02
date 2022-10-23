@@ -24,7 +24,7 @@ _Podemos crear hipervínculos con suma facilidad:_
 
 _Tambien podemos incluir imágenes:_  
 ![Error al cargar la imagen](https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif "Captura clonació repo02")   
-O poner las imágenes con un hipervínculo:  
+_O poner las imágenes con un hipervínculo:_  
 <!-- Ruta URL de la IMG + Descripción-->
 [1]:https://www.muycomputerpro.com/wp-content/uploads/2019/05/stack-overflow-brecha-seguridad.jpg "GOD"
 <!-- Enlace -->
